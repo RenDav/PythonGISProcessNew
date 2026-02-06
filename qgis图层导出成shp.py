@@ -7,7 +7,6 @@ from qgis.core import (
 import os
 import re
 
-# =========================
 # 1. 输出目录（自行修改）
 # =========================
 output_dir = r"D:/qgis_export_shp"   # ← 改成你的目录
